@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FreshZone.com/static/css/main.4fcd96e7.css",
+    "main.js": "/FreshZone.com/static/js/main.8a61ab78.js",
+    "static/media/background.jpg": "/FreshZone.com/static/media/background.85c962eb83667690837f.jpg",
+    "index.html": "/FreshZone.com/index.html",
+    "main.4fcd96e7.css.map": "/FreshZone.com/static/css/main.4fcd96e7.css.map",
+    "main.8a61ab78.js.map": "/FreshZone.com/static/js/main.8a61ab78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fcd96e7.css",
+    "static/js/main.8a61ab78.js"
+  ]
+}
