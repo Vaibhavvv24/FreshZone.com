@@ -1,0 +1,37 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact input {
+  width: 100%;
+}
+.heading {
+  text-align: center;
+  font-size: 25px;
+}
+.formcont {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.formele {
+  padding: 15px 30px;
+}
+.formele button {
+  width: 100px;
+  background-color: rgb(173, 33, 40);
+  color: aliceblue;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 6px;
+  margin: 0 50px;
+  cursor: pointer;
+}
+.formele button:hover {
+  background-color: rgb(190, 23, 143);
+}
+.span {
+  margin: 30px;
+  padding: 30px 0px;
+}

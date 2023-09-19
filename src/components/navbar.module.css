@@ -1,0 +1,43 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(144, 181, 23);
+}
+.nav button {
+  background-color: aqua;
+  cursor: pointer;
+  border: none;
+  width: 100px;
+  font-size: 20px;
+  padding: 5px 5px;
+  margin-left: 20px;
+}
+.nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  font-size: 25px;
+}
+.nav a:link,
+.nav a:visited {
+  text-decoration: none;
+  color: rgb(255, 136, 0);
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+/* CSS Modules feature */
+.nav a:global(.active) {
+  color: pink;
+}
+
+a.ctaLink:link,
+a.ctaLink:visited {
+  background-color: var(--color-brand--2);
+  color: var(--color-dark--0);
+  padding: 0.8rem 2rem;
+  border-radius: 7px;
+}

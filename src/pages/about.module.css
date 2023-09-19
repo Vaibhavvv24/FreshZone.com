@@ -1,0 +1,17 @@
+.about {
+  height: 100vh;
+  font-size: 25px;
+  text-align: center;
+  background-image: url("../../background.jpg");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
+.about p {
+  margin: 10px 10px;
+  padding: 30px 30px;
+  font-weight: bold;
+}
+.about footer {
+  height: 300px;
+}

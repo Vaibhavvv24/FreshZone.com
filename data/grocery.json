@@ -1,0 +1,368 @@
+{
+  "Groceries": [
+    {
+      "name": "banana",
+      "price": 45,
+      "weight": "1",
+      "img": "https://i.ibb.co/dp2x2zt/banana.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 1,
+      "category": "fruits"
+    },
+    {
+      "name": "strawberry",
+      "price": 180,
+      "weight": "1",
+      "img": "./Images/Veggie/strawberry.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 2,
+      "category": "fruits"
+    },
+    {
+      "name": "orange",
+      "price": 75,
+      "weight": "1",
+      "img": "https://i.ibb.co/kDNTqPD/orange.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 3,
+      "category": "fruits"
+    },
+    {
+      "name": "apple",
+      "price": 72,
+      "weight": "1",
+      "img": "https://i.ibb.co/wJHqgvY/apple.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 4,
+      "category": "fruits"
+    },
+    {
+      "name": "muskmelon",
+      "price": 35,
+      "weight": "1",
+      "img": "./Images/Veggie/muskmelon.jpg",
+      "desc": "Kg",
+      "count": 1,
+      "id": 5,
+      "category": "fruits"
+    },
+    {
+      "name": "lemon",
+      "price": 22,
+      "weight": "1",
+      "img": "./Images/Veggie/lemon.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 6,
+      "category": "fruits"
+    },
+    {
+      "name": "blueberry",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/blueberry.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 7,
+      "category": "fruits"
+    },
+    {
+      "name": "grapes",
+      "price": 60,
+      "weight": "1",
+      "img": "./Images/Veggie/grapes.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 8,
+      "category": "fruits"
+    },
+    {
+      "name": "pineapple",
+      "price": 78,
+      "weight": "1",
+      "img": "./Images/Veggie/pineapple.webp",
+      "desc": "Kg",
+      "count": 1,
+      "id": 9,
+      "category": "fruits"
+    },
+    {
+      "name": "mushroom",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/mushroom.jpg",
+      "desc": "Kg",
+      "count": 1,
+      "id": 10,
+      "category": "vegetables"
+    },
+    {
+      "name": "pomogranate",
+      "price": 95,
+      "weight": "1",
+      "img": "./Images/Veggie/pomogranate.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 11,
+      "category": "fruits"
+    },
+    {
+      "name": "broccoli",
+      "price": 120,
+      "weight": "1",
+      "img": "./Images/Veggie/broccoli.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 12,
+      "category": "vegetables"
+    },
+    {
+      "name": "strawberry",
+      "price": 180,
+      "weight": "1",
+      "img": "./Images/Veggie/strawberry.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 13,
+      "category": "fruits"
+    },
+    {
+      "name": "orange",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/orange.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 14,
+      "category": "fruits"
+    },
+    {
+      "name": "apple",
+      "price": 72,
+      "weight": "1",
+      "img": "./Images/Veggie/apple.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 15,
+      "category": "fruits"
+    },
+    {
+      "name": "blueberry",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/blueberry.png",
+      "desc": "Kg",
+      "count": 1,
+      "id": 16,
+      "category": "fruits"
+    },
+    {
+      "name": "milk",
+      "price": 35,
+      "weight": "1",
+      "img": "./Images/Veggie/milk.png",
+      "desc": "L",
+      "count": 1,
+      "id": 17,
+      "category": "dairy"
+    },
+    {
+      "name": "paneer",
+      "price": 180,
+      "weight": "1",
+      "img": "./Images/Veggie/paneer.jpg",
+      "desc": "L",
+      "count": 1,
+      "id": 18,
+      "category": "dairy"
+    },
+    {
+      "name": "ghee",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/ghee.jpeg",
+      "desc": "L",
+      "count": 1,
+      "id": 19,
+      "category": "dairy"
+    },
+    {
+      "name": "curd",
+      "price": 72,
+      "weight": "1",
+      "img": "./Images/Veggie/curd.jpg",
+      "desc": "L",
+      "count": 1,
+      "id": 20,
+      "category": "dairy"
+    },
+    {
+      "name": "goat milk",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/goat.jpg",
+      "desc": "L",
+      "count": 1,
+      "id": 23,
+      "category": "dairy"
+    },
+    {
+      "name": "grapes",
+      "price": 60,
+      "weight": "1",
+      "img": "./Images/Veggie/grapes.png",
+      "desc": "L",
+      "count": 1,
+      "id": 24,
+      "category": "fruits"
+    },
+    {
+      "name": "pineapple",
+      "price": 78,
+      "weight": "1",
+      "img": "./Images/Veggie/pineapple.webp",
+      "desc": "L",
+      "count": 1,
+      "id": 25,
+      "category": "fruits"
+    },
+    {
+      "name": "mushroom",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/mushroom.jpg",
+      "desc": "L",
+      "count": 1,
+      "id": 26,
+      "category": "vegetables"
+    },
+    {
+      "name": "pomogranate",
+      "price": 95,
+      "weight": "1",
+      "img": "./Images/Veggie/pomogranate.png",
+      "desc": "L",
+      "count": 1,
+      "id": 27,
+      "category": "fruits"
+    },
+    {
+      "name": "broccoli",
+      "price": 120,
+      "weight": "1",
+      "img": "./Images/Veggie/broccoli.png",
+      "desc": "L",
+      "count": 1,
+      "id": 28,
+      "category": "vegetables"
+    },
+    {
+      "name": "strawberry",
+      "price": 180,
+      "weight": "1",
+      "img": "./Images/Veggie/strawberry.png",
+      "desc": "L",
+      "count": 1,
+      "id": 29,
+      "category": "fruits"
+    },
+    {
+      "name": "orange",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/orange.png",
+      "desc": "L",
+      "count": 1,
+      "id": 30,
+      "category": "fruits"
+    },
+    {
+      "name": "apple",
+      "price": 72,
+      "weight": "1",
+      "img": "./Images/Veggie/apple.png",
+      "desc": "L",
+      "count": 1,
+      "id": 31,
+      "category": "fruits"
+    },
+    {
+      "name": "blueberry",
+      "price": 75,
+      "weight": "1",
+      "img": "./Images/Veggie/blueberry.png",
+      "desc": "L",
+      "count": 1,
+      "id": 32,
+      "category": "fruits"
+    },
+    {
+      "id": 33,
+      "category": "vegetables",
+      "name": "Green Cabbage Organic",
+      "inStock": true,
+      "img": "./Images/Veggie/cabbage.jpeg",
+      "price": 100
+    },
+    {
+      "id": 34,
+      "category": "vegetables",
+      "name": "Cucumber Organic",
+      "inStock": false,
+      "img": "./Images/Veggie/cucumber.webp",
+      "price": 80
+    },
+    {
+      "id": 35,
+      "category": "vegetables",
+      "name": "Fresh Spinach Organic",
+      "img": "./Images/Veggie/spinach.webp",
+      "inStock": true,
+      "price": 180
+    },
+    {
+      "id": 36,
+      "category": "candy",
+      "name": "Kinder Joy Eggs",
+      "inStock": true,
+      "img": "./Images/Veggie/kinder.jpg",
+      "price": 50
+    },
+    {
+      "id": 37,
+      "category": "candy",
+      "name": "Cadbury Milk Chocolate",
+      "img": "./Images/Veggie/cadbury.webp",
+      "inStock": true,
+      "price": 80
+    },
+    {
+      "id": 38,
+      "category": "candy",
+      "name": "HERSHEY'S, Milk Chocolate Almond",
+      "inStock": true,
+      "img": "./Images/Veggie/hershy.jpeg",
+      "price": 120
+    },
+    {
+      "id": 39,
+      "category": "dairy",
+      "name": "Cream Cheese",
+      "inStock": true,
+      "img": "./Images/Veggie/cheese.webp",
+      "price": 100
+    },
+    {
+      "id": 40,
+      "category": "dairy",
+      "name": "Low Fat Vanilla Yogurt",
+      "inStock": true,
+      "img": "./Images/Veggie/yogurt.jpg",
+      "price": 120
+    }
+  ]
+}

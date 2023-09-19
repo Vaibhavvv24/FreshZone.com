@@ -1,0 +1,21 @@
+.productlist {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* gap: 10px; */
+}
+.cat {
+  display: flex;
+  justify-content: center;
+  padding: 20px 20px;
+  margin: 10px;
+  gap: 30px;
+}
+.catbut {
+  text-align: center;
+  width: 120px;
+}
+.cat img {
+  width: 100px;
+  height: 100px;
+}

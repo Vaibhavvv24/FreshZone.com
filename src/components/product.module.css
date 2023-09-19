@@ -1,0 +1,28 @@
+.product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 60vh;
+  flex-direction: column;
+  /* gap: 10px; */
+  box-shadow: 5px 5px rgb(174, 172, 172);
+  margin-top: 50px;
+  padding: 30px;
+}
+
+.product img {
+  height: 200px;
+  width: 200px;
+}
+.product button {
+  font-size: 20px;
+  margin: 10px 10px;
+  padding: 5px 7px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: brown;
+}
+.product button:hover {
+  background-color: blanchedalmond;
+}
